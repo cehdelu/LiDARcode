@@ -63,13 +63,6 @@ int main(int argc, char *argv[])
            }
            PointInf.push_back(pdata);
         }
-
-
-
-
-
-
-
     cout<<OffsetToPointData;
     return a.exec();
 }
